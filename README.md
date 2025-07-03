@@ -22,7 +22,7 @@ It also includes an admin interface for staff or event organizers to manage even
 |-----------------|---------------------------|
 | Framework       | Django (Python)           |
 | API Layer       | Django REST Framework     |
-| Database        | SQLite (easily swappable with PostgreSQL) |
+| Database        | Postgrel (easily swappable with sqlite) |
 | Admin Panel     | Django Admin              |
 
 ---
@@ -74,7 +74,7 @@ This project is designed to be extensible. You can easily:
 - Python 3.12+
 - Django 5.x
 - Django REST Framework
-- SQLite (default) or PostgreSQL
+- PostgreSQL
 
 ---
 
